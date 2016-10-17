@@ -1,4 +1,4 @@
-# LikeMyPage
+# LikeMyFBPage
 Here is my plugin for the Workshop Week from October 17 to October 21, 2016.
 
 This plugin allows access to the FB page of the site in question without leave.
