@@ -20,6 +20,7 @@ Plugin from Hockfird
 
 
 // FRANÇAIS
+
 Voici mon plugin pour la semaine de Workshop du 17 octobre au 21 octobre 2016
 
 Ce plugin permet d'avoir accès a la page FB du site en question, sans pour autant le quitter. 
