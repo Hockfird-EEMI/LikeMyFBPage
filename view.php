@@ -1,6 +1,5 @@
-<div class="wrap">
-<h2>FB Messenger Settings</h2>
-<p>This plugin allows your visitors to easily contact with your business using Facebook Messenger.</p>
+<div>
+<h2>Like My FB Page // Settings</h2>
 <form method="post" action="options.php">
     <?php
 		settings_fields( 'fb-messenger-settings' );
@@ -11,15 +10,15 @@
 
 
 			<strong>L'url de votre page FB</strong><br>
-			<input type="text" size="50" name="fb_messenger_page" value="<?php echo esc_attr( get_option('fb_messenger_page') ); ?>" />
+			<input type="text" size="50" name="lmfp_page" value="<?php echo esc_attr( get_option('lmfp_page') ); ?>" />
 			<br><br>
 
-			<strong>Afficher la Timeline</strong>
-			<input type="checkbox" name="fb_messenger_timeline_tab" value="true" <?php echo ( get_option('fb_messenger_timeline_tab') == true ) ? ' checked="checked" />' : ' />'; ?>
+			<strong>Show the Timeline</strong>
+			<input type="checkbox" name="lmfp_timeline" value="true" <?php echo ( get_option('lmfp_timeline') == true ) ? ' checked="checked" />' : ' />'; ?>
 			<br><br>
 
-			<strong>Afficher vos évènements</strong>
-			<input type="checkbox" name="fb_messenger_events_tab" value="true" <?php echo ( get_option('fb_messenger_events_tab') == true ) ? ' checked="checked" />' : ' />'; ?>
+			<strong>Show the events</strong>
+			<input type="checkbox" name="lmfp_events" value="true" <?php echo ( get_option('lmfp_events') == true ) ? ' checked="checked" />' : ' />'; ?>
 			<br><br>
 			
 
