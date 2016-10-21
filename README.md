@@ -1,7 +1,7 @@
 # LikeMyFBPage
 Here is my plugin for the Workshop Week from October 17 to October 21, 2016.
 
-This plugin allows access to the FB page of the site in question without leave.
+This plugin allows access to the FB page of the site in question without leaving it.
 Thus it allows site users to monitor different activities or item that the organizers wish to share to its users.
 
 Especially the site administrators can decide what they want to show or not, or the activities that are planned and / or the different items that are present on their pages.

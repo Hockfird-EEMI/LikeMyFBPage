@@ -2,12 +2,12 @@
 /*
 Plugin Name: LikeMyFBPage
 Plugin URI: http://localhost:8888/2A_DEV/EEMI/wordpress/wp-content/plugins/likemyfbpage/likemyfbpage.php
-Description: Plugin encore en recherche de son utilité
+Description: This plugin allows access to the FB page of the site in question without leaving it.
 Version: Beta
 Author: Grégoire Sayer
-Author URI: https://github.com/Hockfird-EEMI
+Author URI: https://github.com/Hockfird-EEMI/LikeMyFBPage
 License: GPL3
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 load_plugin_textdomain( 'likemyfbpage', false, plugin_basename( dirname(__FILE__) ) . '/lang' );
