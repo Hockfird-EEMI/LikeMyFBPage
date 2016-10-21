@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Like My FB Page\n"
-"POT-Creation-Date: 2016-10-21 10:32+0200\n"
-"PO-Revision-Date: 2016-10-21 10:33+0200\n"
+"POT-Creation-Date: 2016-10-21 11:06+0200\n"
+"PO-Revision-Date: 2016-10-21 11:15+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -14,6 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-KeywordsList: _e\n"
 "X-Poedit-SearchPath-0: .\n"
+
+#: bloc_fb.php:19
+msgid "en_US"
+msgstr "fr_FR"
 
 #: view.php:2
 msgid "Like My FB Page // Settings"
