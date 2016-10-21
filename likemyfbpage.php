@@ -10,6 +10,12 @@ License: GPL3
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
+load_plugin_textdomain( 'likemyfbpage', false, plugin_basename( dirname(__FILE__) ) . '/lang' );
+// var_dump(plugin_basename( dirname(__FILE__)));
+// exit;
+
+
+
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 
